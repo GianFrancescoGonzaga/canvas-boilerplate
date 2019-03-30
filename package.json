@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/preset-env": "^7.4.2",
     "gsap": "^2.1.2"
   },
   "devDependencies": {
