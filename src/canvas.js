@@ -42,7 +42,7 @@ class Object {
         ctx.closePath()
     }
 
-    draw() {
+    update() {
         this.draw()
     }
 }
